@@ -33,7 +33,7 @@ void progInto() {
 	int input = 0;
 
 	do {
-		cout << "Welcome, which option number would you like to perform:\n 1) Add Contact\n 2) Remove Contact (NOT Functional Yet)\n 3) Update Contact\n 4) Search Contact\n 5) Sort Contacts(NOT Functional Yet)\n 6) Display Contact\n 7) Exit\n" << endl;
+		cout << "Welcome, which option number would you like to perform:\n 1) Add Contact\n 2) Remove Contact \n 3) Update Contact\n 4) Search Contact\n 5) Sort Contacts(NOT Functional Yet)\n 6) Display Contact\n 7) Exit\n" << endl;
 		cin >> input;
 		switch (input) {
 		case 1:
